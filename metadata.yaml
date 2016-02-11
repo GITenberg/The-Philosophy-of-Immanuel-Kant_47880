@@ -1,0 +1,27 @@
+_repo: The-Philosophy-of-Immanuel-Kant_47880
+creator:
+  author:
+    agent_name: Lindsay, A. D. (Alexander Dunlop)
+    aliases:
+    - Lindsay, Alexander Dunlop, Baron Lindsay of Birker
+    - Lindsay, Archibald Dunlop
+    - Lindsey, A. D. (Alexander Dunlop)
+    - Lindsay, Alexander Dunlop
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '44513'
+    url: http://www.gutenberg.org/2009/agents/44513
+description: ''
+gutenberg_issued: '2015-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Kant, Immanuel, 1724-1804'
+title: The Philosophy of Immanuel Kant
+url: http://www.gutenberg.org/ebooks/47880
